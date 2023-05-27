@@ -1,0 +1,6 @@
+Press-R: Rain mode.
+Press-T: Stop Rain.
+Press-S: All stop.
+Press-D: Drive.
+Press Mouse Right button: Night mode.
+Press Mouse Left Button: Day mode
